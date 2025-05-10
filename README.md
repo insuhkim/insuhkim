@@ -4,6 +4,10 @@
 
 ![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=insuhkim&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=insuhkim&show_icons=true&theme=radical)
+
+![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=insuhkim&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 <!--
 **insuhkim/insuhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
