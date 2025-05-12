@@ -2,7 +2,7 @@
 
 ### Statistics
 
-![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=insuhkim&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton)
+![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=insuhkim&layout=compact&langs_count=12)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=insuhkim&show_icons=true&theme=radical)
 
