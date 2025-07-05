@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-### Statistics
+### Languages
 
 ![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=insuhkim&layout=pie&langs_count=12)
 
+### Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=insuhkim&show_icons=true&theme=radical)
 
+### Streak
 ![Github Streak](https://github-readme-streak-stats-eight.vercel.app/?user=insuhkim&theme=tokyonight)
 
 <!--
