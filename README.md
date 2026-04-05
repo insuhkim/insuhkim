@@ -10,13 +10,6 @@
 
 ![Github Streak](https://github-readme-streak-stats-eight.vercel.app/?user=insuhkim&theme=tokyonight)
 
-### Languages
-
-![Top Langs I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=insuhkim&layout=pie&langs_count=12)
-
-### Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=insuhkim&show_icons=true&theme=radical)
 
 <!--
 **insuhkim/insuhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
